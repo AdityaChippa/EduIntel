@@ -4,7 +4,6 @@
   "description": "Intel Smart Classroom Assistant - AI-powered educational platform",
   "private": true,
   "scripts": {
-    "preinstall": "npx npm@latest install --legacy-peer-deps",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
