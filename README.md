@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduIntel - AI-Powered Smart Classroom Assistant
 
 EduIntel is a comprehensive educational platform that combines Intel's Qwen2.5 7B INT4 model (local) with GroqCloud's LLaMA models (cloud) to provide an intelligent learning experience.
@@ -203,3 +204,6 @@ For issues or questions:
 ---
 
 Built with ❤️ for the future of education
+=======
+# EduIntel
+>>>>>>> d78a12625695e3754e3d846bc2de2b1f0f999965
