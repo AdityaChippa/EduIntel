@@ -58,7 +58,7 @@ export default function ModelSwitcher() {
                   <li>✓ Local processing</li>
                   <li>✓ Privacy-focused</li>
                   <li>✓ No internet required</li>
-                  <li>✓ Image support</li>
+                  <li>✓ No Image support</li>
                   <li>~ Slower responses</li>
                 </ul>
               </div>
